@@ -1,0 +1,7 @@
+Hello User,
+
+This is a sample text file for testing your bot.
+You can use this file to check if your bot can handle file uploads, downloads, and processing.
+
+Thank you,
+- ChatGPT
